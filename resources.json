@@ -1,0 +1,773 @@
+{
+    "data": [
+        {
+            "url": "https://github.com/ornldaac/modis",
+            "date": "2018-05-08",
+            "rid": 2,
+            "keywords": {
+                "Topic": [
+                    "MODIS/VIIRS"
+                ],
+                "Tool": [],
+                "Type": [
+                    "Tutorial"
+                ],
+                "Keyword": [
+                    "Python",
+                    "Web Service",
+                    "R",
+                    "MATLAB",
+                    "Perl"
+                ]
+            },
+            "title": "MODIS Subsetting Tools and Services at ORNL DAAC"
+        },
+        {
+            "url": "https://github.com/ornldaac/modis_restservice_qc_filter_Python",
+            "date": "2018-05-29",
+            "rid": 3,
+            "keywords": {
+                "Topic": [
+                    "MODIS/VIIRS"
+                ],
+                "Tool": [],
+                "Type": [
+                    "Tutorial"
+                ],
+                "Keyword": [
+                    "Python",
+                    "Web Service"
+                ]
+            },
+            "title": "Access the MODIS web service and perform quality filtering using Python"
+        },
+        {
+            "url": "https://github.com/ornldaac/modis_restservice_qc_filter_R",
+            "date": "2018-05-29",
+            "rid": 4,
+            "keywords": {
+                "Topic": [
+                    "MODIS/VIIRS"
+                ],
+                "Tool": [],
+                "Type": [
+                    "Tutorial"
+                ],
+                "Keyword": [
+                    "Web Service",
+                    "R"
+                ]
+            },
+            "title": "Access the MODIS web service and perform quality filtering using R"
+        },
+        {
+            "url": "https://github.com/ornldaac/modis_global_tool_batch_order",
+            "date": "2018-05-29",
+            "rid": 5,
+            "keywords": {
+                "Topic": [
+                    "MODIS/VIIRS"
+                ],
+                "Tool": [],
+                "Type": [
+                    "Tutorial"
+                ],
+                "Keyword": [
+                    "Python",
+                    "Web Service",
+                    "R"
+                ]
+            },
+            "title": "Submit a batch of MODIS Global Subset Tool orders via the MODIS Web Service"
+        },
+        {
+            "url": "https://daymet.ornl.gov/web_services.html#gridded_subsets",
+            "date": "2018-05-08",
+            "rid": 6,
+            "keywords": {
+                "Topic": [
+                    "Daymet"
+                ],
+                "Tool": [
+                    "NCSS",
+                    "THREDDS"
+                ],
+                "Type": [
+                    "Tutorial"
+                ],
+                "Keyword": [
+                    "Bash Script"
+                ]
+            },
+            "title": "Spatial and Temporal Subsets of Daymet Data Using the THREDDS NetCDF Subset Service (NCSS) for Grids"
+        },
+        {
+            "url": "https://daymet.ornl.gov/web_services.html#single_pixel_data_extraction",
+            "date": "2018-05-08",
+            "rid": 7,
+            "keywords": {
+                "Topic": [
+                    "Daymet"
+                ],
+                "Tool": [
+                    "Single Pixel"
+                ],
+                "Type": [
+                    "Tutorial"
+                ],
+                "Keyword": [
+                    "Web Service",
+                    "Bash Script",
+                    "csv"
+                ]
+            },
+            "title": "Daymet Single Pixel Data Extraction - Web Services"
+        },
+        {
+            "url": "https://github.com/ornldaac/daymet-single-pixel-batch",
+            "date": "2018-05-08",
+            "rid": 8,
+            "keywords": {
+                "Topic": [
+                    "Daymet"
+                ],
+                "Tool": [
+                    "Single Pixel"
+                ],
+                "Type": [
+                    "Code"
+                ],
+                "Keyword": [
+                    "Python",
+                    "Java",
+                    "csv"
+                ]
+            },
+            "title": "Daymet Single Pixel Batch Scripts"
+        },
+        {
+            "url": "https://daac.ornl.gov/workshops/DaymetThruWebServices_10232014.html",
+            "date": "2018-05-08",
+            "rid": 9,
+            "keywords": {
+                "Topic": [
+                    "Daymet"
+                ],
+                "Tool": [
+                    "Single Pixel",
+                    "OPeNDAP",
+                    "THREDDS"
+                ],
+                "Keyword": [],
+                "Type": [
+                    "Webinar"
+                ]
+            },
+            "title": "Accessing Daymet Data Through Web-Based Tools and Services"
+        },
+        {
+            "url": "https://github.com/ornldaac/daymet_netcdf_season-avg",
+            "date": "2018-05-08",
+            "rid": 10,
+            "keywords": {
+                "Topic": [
+                    "Daymet"
+                ],
+                "Tool": [
+                    "NCSS",
+                    "THREDDS"
+                ],
+                "Type": [
+                    "Tutorial"
+                ],
+                "Keyword": [
+                    "Python",
+                    "netCDF"
+                ]
+            },
+            "title": "Python Methods to Derive a Seasonal Mean from Daymet Data"
+        },
+        {
+            "url": "https://github.com/ornldaac/daymet-normals-anomalies-years",
+            "date": "2018-05-08",
+            "rid": 11,
+            "keywords": {
+                "Topic": [
+                    "Daymet"
+                ],
+                "Tool": [
+                    "OPeNDAP"
+                ],
+                "Type": [
+                    "Tutorial"
+                ],
+                "Keyword": [
+                    "Python",
+                    "netCDF"
+                ]
+            },
+            "title": "OPeNDAP Access in Python to Derive Climate Normals and Anomalies of Daymet netCDF Yearly Data"
+        },
+        {
+            "url": "https://github.com/ornldaac/daymet-normals-anomalies-tiles",
+            "date": "2018-05-08",
+            "rid": 12,
+            "keywords": {
+                "Topic": [
+                    "Daymet"
+                ],
+                "Tool": [
+                    "OPeNDAP"
+                ],
+                "Type": [
+                    "Tutorial"
+                ],
+                "Keyword": [
+                    "Python",
+                    "netCDF"
+                ]
+            },
+            "title": "OPeNDAP Access in Python to Derive Climate Normals and Anomalies of Daymet Aggregated netCDF4 Tile Data"
+        },
+        {
+            "url": "https://CRAN.R-project.org/package=daymetr",
+            "date": "2018-05-08",
+            "rid": 13,
+            "keywords": {
+                "Topic": [
+                    "Daymet"
+                ],
+                "Tool": [],
+                "Type": [
+                    "Code"
+                ],
+                "Keyword": [
+                    "Web Service",
+                    "R"
+                ]
+            },
+            "title": "A Programmatic Interface to the Daymet Web Services: DaymetR"
+        },
+        {
+            "url": "https://github.com/khufkens/daymetpy",
+            "date": "2018-05-08",
+            "rid": 14,
+            "keywords": {
+                "Topic": [
+                    "Daymet"
+                ],
+                "Tool": [],
+                "Type": [
+                    "Code"
+                ],
+                "Keyword": [
+                    "Python",
+                    "Web Service"
+                ]
+            },
+            "title": "DaymetPy: A python library for accessing Daymet surface weather data"
+        },
+        {
+            "url": "https://ropensci.org/technotes/2017/08/24/feddata-release/",
+            "date": "2018-05-08",
+            "rid": 15,
+            "keywords": {
+                "Topic": [
+                    "Daymet"
+                ],
+                "Tool": [],
+                "Type": [
+                    "Code"
+                ],
+                "Keyword": [
+                    "Web Service",
+                    "R"
+                ]
+            },
+            "title": "FedData - Getting assorted geospatial data into R"
+        },
+        {
+            "url": "https://www.ncl.ucar.edu/Applications/daymet.shtml",
+            "date": "2018-05-08",
+            "rid": 16,
+            "keywords": {
+                "Topic": [
+                    "Daymet"
+                ],
+                "Tool": [],
+                "Type": [
+                    "Tutorial"
+                ],
+                "Keyword": []
+            },
+            "title": "Merging Daymet NetCDF Files with NCL Join Script "
+        },
+        {
+            "url": "https://davemfish.wordpress.com/code/rexample1/",
+            "date": "2018-05-08",
+            "rid": 17,
+            "keywords": {
+                "Topic": [
+                    "Daymet"
+                ],
+                "Tool": [],
+                "Type": [
+                    "Tutorial"
+                ],
+                "Keyword": [
+                    "netCDF",
+                    "R"
+                ]
+            },
+            "title": "Analysis and Visualization of (Daymet) netCDF files with R"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=AJQ3m3E8SCY",
+            "date": "2018-05-08",
+            "rid": 18,
+            "keywords": {
+                "Topic": [],
+                "Keyword": [],
+                "Tool": [
+                    "OPeNDAP"
+                ],
+                "Type": [
+                    "Webinar"
+                ]
+            },
+            "title": "Simplified NASA Earth Data Access through OPeNDAP"
+        },
+        {
+            "url": "https://daac.ornl.gov/tutorials/Introduction_to_ORNL_DAAC_THREDDS_Data_Server.pdf",
+            "date": "2018-05-08",
+            "rid": 19,
+            "keywords": {
+                "Topic": [],
+                "Keyword": [],
+                "Tool": [
+                    "OPeNDAP",
+                    "THREDDS"
+                ],
+                "Type": [
+                    "Tutorial"
+                ]
+            },
+            "title": "Introduction to ORNL DAAC THREDDS Data Server"
+        },
+        {
+            "url": "https://github.com/ornldaac/thredds_opendap_python_radiation",
+            "date": "2018-05-08",
+            "rid": 20,
+            "keywords": {
+                "Topic": [],
+                "Tool": [
+                    "OPeNDAP",
+                    "THREDDS"
+                ],
+                "Type": [
+                    "Tutorial"
+                ],
+                "Keyword": [
+                    "Python",
+                    "netCDF"
+                ]
+            },
+            "title": "Access Distributed NASA Earth Science Data from OPeNDAP Services using Python"
+        },
+        {
+            "url": "https://github.com/ornldaac/thredds_opendap_r_max_temperature",
+            "date": "2018-05-08",
+            "rid": 21,
+            "keywords": {
+                "Topic": [
+                    "Daymet"
+                ],
+                "Tool": [
+                    "OPeNDAP",
+                    "THREDDS"
+                ],
+                "Type": [
+                    "Tutorial"
+                ],
+                "Keyword": [
+                    "netCDF",
+                    "R"
+                ]
+            },
+            "title": "Access Distributed NASA Earth Science Data from OPeNDAP Services using R"
+        },
+        {
+            "url": "https://github.com/ornldaac/thredds_opendap_matlab_temperature",
+            "date": "2018-05-08",
+            "rid": 22,
+            "keywords": {
+                "Topic": [],
+                "Tool": [
+                    "OPeNDAP",
+                    "THREDDS"
+                ],
+                "Type": [
+                    "Tutorial"
+                ],
+                "Keyword": [
+                    "MATLAB"
+                ]
+            },
+            "title": "Use ORNL DAAC TDS Data Resources in Matlab"
+        },
+        {
+            "url": "https://webmap.ornl.gov/ogc/help/sdat_help_index.html",
+            "date": "2018-05-08",
+            "rid": 23,
+            "keywords": {
+                "Topic": [],
+                "Keyword": [],
+                "Tool": [
+                    "SDAT"
+                ],
+                "Type": [
+                    "Help Page"
+                ]
+            },
+            "title": "Spatial Data Access Tool (SDAT) Usage Help Page "
+        },
+        {
+            "url": "https://github.com/ornldaac/sdat_wms_python_clumping_index",
+            "date": "2018-05-08",
+            "rid": 24,
+            "keywords": {
+                "Topic": [],
+                "Tool": [
+                    "SDAT",
+                    "WMS"
+                ],
+                "Type": [
+                    "Tutorial"
+                ],
+                "Keyword": [
+                    "Python"
+                ]
+            },
+            "title": "Access ORNL DAAC WMS Service using Python"
+        },
+        {
+            "url": "https://github.com/ornldaac/sdat_wms_matlab_amazon_rainfall",
+            "date": "2018-05-08",
+            "rid": 25,
+            "keywords": {
+                "Topic": [],
+                "Tool": [
+                    "SDAT",
+                    "WMS"
+                ],
+                "Type": [
+                    "Tutorial"
+                ],
+                "Keyword": [
+                    "MATLAB"
+                ]
+            },
+            "title": "Access ORNL DAAC WMS Service using Matlab"
+        },
+        {
+            "url": "https://webmap.ornl.gov/ogcdown/help/tutorials/Access_WMS_Services_in_Virtual_Globes_Compressed.pdf",
+            "date": "2018-05-08",
+            "rid": 26,
+            "keywords": {
+                "Topic": [],
+                "Keyword": [],
+                "Tool": [
+                    "SDAT",
+                    "WMS"
+                ],
+                "Type": [
+                    "Tutorial"
+                ]
+            },
+            "title": "Use ORNL DAAC WMS Service in Virtual Globe Applications"
+        },
+        {
+            "url": "https://webmap.ornl.gov/ogcdown/help/tutorials/Access_OGC_Services_in_GIS_Tools.pdf",
+            "date": "2018-05-08",
+            "rid": 27,
+            "keywords": {
+                "Topic": [],
+                "Keyword": [],
+                "Tool": [
+                    "SDAT",
+                    "WMS"
+                ],
+                "Type": [
+                    "Tutorial"
+                ]
+            },
+            "title": "Use ORNL DAAC WCS/WMS Services in Popular GIS Tools"
+        },
+        {
+            "url": "https://github.com/ornldaac/netcdf_open_visualize_csv",
+            "date": "2018-05-08",
+            "rid": 28,
+            "keywords": {
+                "Topic": [],
+                "Tool": [],
+                "Type": [
+                    "Tutorial"
+                ],
+                "Keyword": [
+                    "Python",
+                    "netCDF",
+                    "csv"
+                ]
+            },
+            "title": "Opening and visualizing a netCDF file in Python"
+        },
+        {
+            "url": "https://github.com/ornldaac/netCDF_data_in_R",
+            "date": "2018-05-08",
+            "rid": 29,
+            "keywords": {
+                "Topic": [],
+                "Tool": [],
+                "Type": [
+                    "Tutorial"
+                ],
+                "Keyword": [
+                    "netCDF",
+                    "R"
+                ]
+            },
+            "title": "How to open and work with NetCDF data in R"
+        },
+        {
+            "url": "https://github.com/ornldaac/web_services_data_access",
+            "date": "2019-04-21",
+            "rid": 30,
+            "keywords": {
+                "Topic": [
+                    "Daymet",
+                    "MODIS/VIIRS"
+                ],
+                "Tool": [
+                    "SDAT"
+                ],
+                "Type": [
+                    "Tutorial"
+                ],
+                "Keyword": [
+                    "Python",
+                    "Web Service"
+                ]
+            },
+            "title": "Accessing Data through ORNL DAAC Web Services"
+        },
+        {
+            "url": "https://daac.ornl.gov/workshops/NetCDF_webinar_08302017.html",
+            "date": "2018-05-08",
+            "rid": 31,
+            "keywords": {
+                "Topic": [
+                    "Daymet"
+                ],
+                "Tool": [],
+                "Type": [
+                    "Webinar"
+                ],
+                "Keyword": [
+                    "Python",
+                    "netCDF",
+                    "Web Service",
+                    "R"
+                ]
+            },
+            "title": "NetCD-what? An Ecologist's Guide to Working with Daymet and other NetCDF-formatted Data"
+        },
+        {
+            "url": "https://www.youtube.com/watch?v=4BO5-r3mrz4&feature=youtu.be",
+            "date": "2018-05-08",
+            "rid": 34,
+            "keywords": {
+                "Keyword": [],
+                "Tool": [],
+                "Topic": [
+                    "Data Management",
+                    "ABoVE"
+                ],
+                "Type": [
+                    "Webinar"
+                ]
+            },
+            "title": "NASA ABoVE Data Management Best Practices"
+        },
+        {
+            "url": "https://daac.ornl.gov/submit/help/",
+            "date": "2018-05-08",
+            "rid": 35,
+            "keywords": {
+                "Topic": [
+                    "Data Management"
+                ],
+                "Tool": [
+                    "FTP"
+                ],
+                "Keyword": [],
+                "Type": [
+                    "Help Page"
+                ]
+            },
+            "title": "Data Submission Help: FTP Upload"
+        },
+        {
+            "url": "https://airmoss.ornl.gov/visualize/guide.html",
+            "date": "2018-05-08",
+            "rid": 36,
+            "keywords": {
+                "Keyword": [],
+                "Tool": [],
+                "Topic": [
+                    "Daymet",
+                    "MODIS/VIIRS",
+                    "AirMOSS"
+                ],
+                "Type": [
+                    "Help Page"
+                ]
+            },
+            "title": "A Guide to the Soil Moisture Subset/Visualizer"
+        },
+        {
+            "rid": 37,
+            "keywords": {
+                "Keyword": [
+                    "Python",
+                    "Web Service",
+                    "R",
+                    "QC"
+                ],
+                "Tool": [],
+                "Type": [
+                    "Webinar"
+                ],
+                "Topic": [
+                    "MODIS/VIIRS"
+                ]
+            },
+            "url": "https://daac.ornl.gov/workshops/MODIS-VIIRS_Webinar_20180816.html",
+            "title": "MODIS and VIIRS Data Tools and Services at your Fingertips",
+            "date": "2018-08-20"
+        },
+        {
+            "rid": 38,
+            "keywords": {
+                "Keyword": [
+                    "Airborne"
+                ],
+                "Tool": [],
+                "Type": [
+                    "Tutorial"
+                ],
+                "Topic": [
+                    "ABoVE"
+                ]
+            },
+            "url": "https://daac.ornl.gov/resources/tutorials/search-above-data/",
+            "title": "Accessing ABoVE airborne data using Earthdata Search",
+            "date": "2019-01-06"
+        },
+        {
+            "date": "2019-02-19",
+            "rid": 39,
+            "url": "https://github.com/ornldaac/above-airborne-avirisng-python",
+            "title": "Python: Basic processing of hyperspectral imagery from AVIRIS-NG collected during ABoVE airborne campaigns",
+            "keywords": {
+                "Keyword": [
+                    "ABoVE",
+                    "Airborne",
+                    "Python"
+                ],
+                "Type": [
+                    "Tutorial"
+                ],
+                "Tool": [],
+                "Topic": []
+            }
+        },
+        {
+            "date": "2019-03-13",
+            "rid": 41,
+            "url": "https://daac.ornl.gov/resources/tutorials/r-geospatial-webinar/",
+            "title": "Introduction to Geospatial Analysis in R",
+            "keywords": {
+                "Keyword": [
+                    "R"
+                ],
+                "Type": [
+                    "Webinar"
+                ],
+                "Tool": [],
+                "Topic": []
+            }
+        },
+        {
+            "date": "2019-08-15",
+            "rid": 42,
+            "url": "https://daac.ornl.gov/resources/workshops/esa-2019-workshop/",
+            "title": "Extracting and Exploring NASA Earthdata for your Study Site or Region - Ecological Society of America Workshop 33",
+            "keywords": {
+                "Keyword": [
+                    "Earthdata Search",
+                    "AppEEARS",
+                    "MODIS/VIIRS",
+                    "SDAT",
+                    "Daymet"
+                ],
+                "Type": [
+                    "Workshop"
+                ],
+                "Tool": [],
+                "Topic": []
+            }
+        },
+        {
+            "date": "2019-09-09",
+            "rid": 43,
+            "url": "https://daac.ornl.gov/resources/tutorials/create_publication_quality_netcdf",
+            "title": "NetCDF Why and How: Creating Publication Quality NetCDF Datasets",
+            "keywords": {
+                "Keyword": [
+                    "netCDF",
+                    "Data Management",
+                    "Python",
+                    "OPeNDAP",
+                    "Web Service",
+                    "NCO",
+                    "GDAL"
+                ],
+                "Type": [
+                    "Webinar"
+                ],
+                "Tool": [],
+                "Topic": []
+            }
+        },
+        {
+            "date": "2019-09-25",
+            "rid": 44,
+            "url": "https://daac.ornl.gov/resources/workshops/nasa-te-workshop/",
+            "title": "Data Management and Publishing for NASA TE Projects",
+            "keywords": {
+                "Keyword": [
+                    "Submit Data",
+                    "Data Management",
+                    "MODIS/VIIRS",
+                    "SDAT",
+                    "Daymet"
+                ],
+                "Type": [
+                    "Workshop"
+                ],
+                "Tool": [],
+                "Topic": []
+            }
+        }
+    ]
+}

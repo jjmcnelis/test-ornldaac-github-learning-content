@@ -1,0 +1,14 @@
+
+###########################################################################
+#
+# REPO: https://github.com/ornldaac/modis
+#
+###########################################################################
+
+# REPO EXISTS LOCALLY. PULLING ... 
+
+# PROCESSING: modis-global-fixed-statistics.ipynb 
+  Notebook kernel: ir
+  SUCCESS! Notebook saved here: tests/modis/modis-global-fixed-statistics.ipynb
+
+...
